@@ -24,7 +24,7 @@
 
 ### 🔹 GPT-2 From Scratch
 - Implemented transformer architecture in PyTorch  
-🔗 (add repo here)
+🔗 https://github.com/mohsinakh/gpt2
 
 ---
 
