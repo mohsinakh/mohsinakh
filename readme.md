@@ -53,3 +53,6 @@ React.js, JavaScript, HTML, CSS
 - AI-based healthcare systems (ICMR)
 - Multimodal depression detection (audio + NLP)
 - Scalable ML pipelines
+
+- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohsinakh&show_icons=true)
+- ![Visitors](https://komarev.com/ghpvc/?username=mohsinakh)
