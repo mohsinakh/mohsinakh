@@ -1,6 +1,6 @@
 # Hi, I'm Mohsin Abbas 👋
 
-💻 Software Engineer @ ICMR (AI/ML + Backend)  
+💻 Software Engineer @ GA Digital (AI/ML + Backend)  
 🎯 Focus: AI Systems, Computer Vision, NLP, Backend APIs  
 
 ---
