@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%40+ICMR;I+build+things+from+scratch;GPT-2%2C+from+the+tensors+up;RAG+%7C+LLM+Agents+%7C+Computer+Vision" alt="typing banner" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&pause=1000&color=70A5FD&center=true&vCenter=true&width=620&lines=AI%2FML+Engineer+%40+ITT;I+build+things+from+scratch;GPT-2%2C+from+the+tensors+up;RAG+%7C+LLM+Agents+%7C+Computer+Vision" alt="typing banner" />
 
 <p>
   <a href="https://mohsinkhan.online"><img src="https://img.shields.io/badge/Portfolio-70A5FD?style=flat-square&logo=firefox&logoColor=white" alt="Portfolio"/></a>
